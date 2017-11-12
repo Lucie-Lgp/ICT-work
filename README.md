@@ -1,6 +1,6 @@
 ## Welcome to Lucie-Lgp Pages
 
-I can use the [editor on GitHub](https://github.com/Lucie-Lgp/ICT-work/edit/gh-pages/README.md) to maintain and preview the content for my website in Markdown files.
+My name is Lucie I am in ICS in Jordan. I like cats,art and red pandas. 
 
 I have also build pages directly in [html](testing.html)
 
