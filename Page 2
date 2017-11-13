@@ -5,7 +5,19 @@
 <b><u><head>HTML</head></u></b>
 
 
-<p><font color=gold>We also looked at HTML (this is the code I am using right now!!) HTML stands for hyper text markup language. It is very intrustig. To do HTML you need to use this:< >  opening and closing tag. There  things to learn if you want to use this language. These are the basic things: bold,underline,italics, font colour,hyperlinks and the main parts of your code body,head and title. It is very simple to do. We used notepad to put our code in and then transfer it to google drive. It was my very first time coding I found it very interesting!</font></p>
+<p><font color=gold>We also looked at HTML (this is the code I am using right now!!) HTML stands for hyper text markup language.
+It is very intrustig.</font> </p>
+<p><font color=gold>To do HTML you need to use this:< >  opening and closing tag.</font><p>
+
+<p><font color=gold>There are a few things to learn if you want to use this language.</font> </p>
+<p><font color=gold>These are the basic things: bold,underline,italics, font colour,hyperlinks and the main parts of your code body,head and title.</font> </p> 
+<p><font color=gold>It is very simple to do.</font></p>
+<p><font color=gold>We used notepad to put our code in and then transfer it to google drive.</font> </p>
+<p><font color=gold>It was my very first time coding I found it very interesting!</font></p>
+
+<p>
+<a href=testing.html> Go back to Homepage </a>
+</p>
 
 </body>
 </html>
