@@ -1,0 +1,2 @@
+forename="Sam"
+print(forename) 
