@@ -1,0 +1,15 @@
+name=input("What is your first name? ")
+greeting="Nice to meet you "
+print (greeting+name)
+location=input("where do you live? ")
+print (location+" is a nice place to live")
+
+iceCream=input(" What is you favourite icecream flavour? ")
+print (iceCream+ "is a nice flavour though,I prefer cotton candy flavour! ")
+ANIMAL=input("what is your favourite animal? ")
+print (ANIMAL+", cool! I love dolfins")
+
+question=input("Do you like me? ")
+print (question+'Ok!')
+sport=input("what sports do you do? ")
+print (sport+",is a nice sport. I do gymnastics")
