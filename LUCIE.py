@@ -1,2 +1,0 @@
-forename="Sam"
-print(forename) 
